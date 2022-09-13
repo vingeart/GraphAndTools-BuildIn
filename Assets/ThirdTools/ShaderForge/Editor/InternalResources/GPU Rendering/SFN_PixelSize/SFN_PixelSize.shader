@@ -1,6 +1,7 @@
-Shader "Hidden/Shader Forge/SFN_Time" {
+Shader "Hidden/Shader Forge/SFN_PixelSize" {
     Properties {
         _OutputMask ("Output Mask", Vector) = (1,1,1,1)
+
     }
     SubShader {
         Tags {
@@ -14,7 +15,6 @@ Shader "Hidden/Shader Forge/SFN_Time" {
             #include "UnityCG.cginc"
             #pragma target 3.0
             uniform float4 _OutputMask;
-            uniform sampler2D _IN;
 
             struct VertexInput {
                 float4 vertex : POSITION;
@@ -28,12 +28,8 @@ Shader "Hidden/Shader Forge/SFN_Time" {
                 return o;
             }
             float4 frag(VertexOutput i) : COLOR {
-
-                // Operator
-                float4 outputColor = _Time;
-
                 // Return
-                return outputColor * _OutputMask;
+                return float4( _ScreenParams.z-1, _ScreenParams.w-1, 0, 0 ) * _OutputMask;
             }
             ENDCG
         }
