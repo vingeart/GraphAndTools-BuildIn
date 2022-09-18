@@ -1,0 +1,531 @@
+fileFormatVersion: 2
+guid: 01d1587f0d76cd74ab9237ce237f996f
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Bip01
+    100002: Bip01 Head
+    100004: Bip01 L Calf
+    100006: Bip01 L Clavicle
+    100008: Bip01 L Finger0
+    100010: Bip01 L Finger01
+    100012: Bip01 L Finger02
+    100014: Bip01 L Finger1
+    100016: Bip01 L Finger11
+    100018: Bip01 L Finger12
+    100020: Bip01 L Finger2
+    100022: Bip01 L Finger21
+    100024: Bip01 L Finger22
+    100026: Bip01 L Finger3
+    100028: Bip01 L Finger31
+    100030: Bip01 L Finger32
+    100032: Bip01 L Finger4
+    100034: Bip01 L Finger41
+    100036: Bip01 L Finger42
+    100038: Bip01 L Foot
+    100040: Bip01 L Forearm
+    100042: Bip01 L Hand
+    100044: Bip01 L Thigh
+    100046: Bip01 L Toe0
+    100048: Bip01 L UpperArm
+    100050: Bip01 Neck
+    100052: Bip01 Pelvis
+    100054: Bip01 R Calf
+    100056: Bip01 R Clavicle
+    100058: Bip01 R Finger0
+    100060: Bip01 R Finger01
+    100062: Bip01 R Finger02
+    100064: Bip01 R Finger1
+    100066: Bip01 R Finger11
+    100068: Bip01 R Finger12
+    100070: Bip01 R Finger2
+    100072: Bip01 R Finger21
+    100074: Bip01 R Finger22
+    100076: Bip01 R Finger3
+    100078: Bip01 R Finger31
+    100080: Bip01 R Finger32
+    100082: Bip01 R Finger4
+    100084: Bip01 R Finger41
+    100086: Bip01 R Finger42
+    100088: Bip01 R Foot
+    100090: Bip01 R Forearm
+    100092: Bip01 R Hand
+    100094: Bip01 R Thigh
+    100096: Bip01 R Toe0
+    100098: Bip01 R UpperArm
+    100100: Bip01 Spine
+    100102: Bip01 Spine1
+    100104: Bip01 Spine2
+    100106: Body01_0000
+    100108: Body02xin
+    100110: Bone008
+    100112: Bone008(mirrored)
+    100114: Bone009
+    100116: Bone009(mirrored)
+    100118: Bone097
+    100120: Bone099
+    100122: Bone101
+    100124: Bone101(mirrored)
+    100126: Bone102
+    100128: Bone102(mirrored)
+    100130: Bone103
+    100132: Bone103(mirrored)
+    100134: Bone104
+    100136: Bone105
+    100138: Bone106
+    100140: Bone107
+    100142: Bone108
+    100144: Bone109
+    100146: Bone110
+    100148: Bone111
+    100150: Bone112
+    100152: Bone112(mirrored)
+    100154: Bone113
+    100156: Bone113(mirrored)
+    100158: Bone114
+    100160: Bone114(mirrored)
+    100162: Bone115
+    100164: Bone115(mirrored)
+    100166: Bone116
+    100168: Bone116(mirrored)
+    100170: Bone117
+    100172: Bone117(mirrored)
+    100174: Bone118
+    100176: Bone118(mirrored)
+    100178: Bone119
+    100180: Bone119(mirrored)
+    100182: Bone120
+    100184: Bone120(mirrored)
+    100186: Bone121
+    100188: Bone121(mirrored)
+    100190: Bone121(mirrored)001
+    100192: Bone122
+    100194: Bone123
+    100196: Bone123(mirrored)
+    100198: Bone124
+    100200: Bone125
+    100202: Bone125(mirrored)
+    100204: Bone126
+    100206: Bone126(mirrored)
+    100208: Bone127
+    100210: Bone127(mirrored)
+    100212: Bone128
+    100214: Bone129
+    100216: Bone130
+    100218: Bone131
+    100220: Bone132
+    100222: Bone133
+    100224: Bone135
+    100226: Bone136
+    100228: Bone137
+    100230: Bone138
+    100232: Bone139
+    100234: Bone140
+    100236: Bone141
+    100238: Bone142
+    100240: challenger_hair_renderer
+    100242: challenger_hair_renderer (1)
+    100244: Changxiu_Buliao_0000
+    100246: dadasfasd123
+    100248: dadasfasd123 (1)
+    100250: Hair003
+    100252: Hair004
+    100254: JieMao001
+    100256: JinshuLian
+    100258: L_Xiong
+    100260: L_yan
+    100262: L_yanmei_01
+    100264: L_yanmei_02
+    100266: L_yanmei_03
+    100268: L_yanpi_01
+    100270: L_yanpi_02
+    100272: meimei_nvjisinew
+    100274: //RootNode
+    100276: QunZi01_Buliao
+    100278: QunZi02_Buliao
+    100280: R_Xiong
+    100282: R_yan
+    100284: R_yanmei_01
+    100286: R_yanmei_02
+    100288: R_yanmei_03
+    100290: R_yanpi_01
+    100292: R_yanpi_02
+    100294: TouJin_1245ab
+    100296: TouJin_1245ab (1)
+    100298: TouJin_1245ab (2)
+    100300: TouJin_BuLiao
+    100302: Toushi01
+    100304: xiaba
+    100306: XiaoBi001
+    100308: XiongHua01_Guge
+    100310: XiongHua02_Guge
+    100312: YaChi
+    100314: YanQiu_L
+    100316: YanQiu_R
+    100318: youtuipengzhuang1
+    100320: youtuipengzhuang2
+    100322: Zui_01
+    100324: Zui_02
+    100326: Zui_03
+    100328: Zui_04
+    400000: Bip01
+    400002: Bip01 Head
+    400004: Bip01 L Calf
+    400006: Bip01 L Clavicle
+    400008: Bip01 L Finger0
+    400010: Bip01 L Finger01
+    400012: Bip01 L Finger02
+    400014: Bip01 L Finger1
+    400016: Bip01 L Finger11
+    400018: Bip01 L Finger12
+    400020: Bip01 L Finger2
+    400022: Bip01 L Finger21
+    400024: Bip01 L Finger22
+    400026: Bip01 L Finger3
+    400028: Bip01 L Finger31
+    400030: Bip01 L Finger32
+    400032: Bip01 L Finger4
+    400034: Bip01 L Finger41
+    400036: Bip01 L Finger42
+    400038: Bip01 L Foot
+    400040: Bip01 L Forearm
+    400042: Bip01 L Hand
+    400044: Bip01 L Thigh
+    400046: Bip01 L Toe0
+    400048: Bip01 L UpperArm
+    400050: Bip01 Neck
+    400052: Bip01 Pelvis
+    400054: Bip01 R Calf
+    400056: Bip01 R Clavicle
+    400058: Bip01 R Finger0
+    400060: Bip01 R Finger01
+    400062: Bip01 R Finger02
+    400064: Bip01 R Finger1
+    400066: Bip01 R Finger11
+    400068: Bip01 R Finger12
+    400070: Bip01 R Finger2
+    400072: Bip01 R Finger21
+    400074: Bip01 R Finger22
+    400076: Bip01 R Finger3
+    400078: Bip01 R Finger31
+    400080: Bip01 R Finger32
+    400082: Bip01 R Finger4
+    400084: Bip01 R Finger41
+    400086: Bip01 R Finger42
+    400088: Bip01 R Foot
+    400090: Bip01 R Forearm
+    400092: Bip01 R Hand
+    400094: Bip01 R Thigh
+    400096: Bip01 R Toe0
+    400098: Bip01 R UpperArm
+    400100: Bip01 Spine
+    400102: Bip01 Spine1
+    400104: Bip01 Spine2
+    400106: Body01_0000
+    400108: Body02xin
+    400110: Bone008
+    400112: Bone008(mirrored)
+    400114: Bone009
+    400116: Bone009(mirrored)
+    400118: Bone097
+    400120: Bone099
+    400122: Bone101
+    400124: Bone101(mirrored)
+    400126: Bone102
+    400128: Bone102(mirrored)
+    400130: Bone103
+    400132: Bone103(mirrored)
+    400134: Bone104
+    400136: Bone105
+    400138: Bone106
+    400140: Bone107
+    400142: Bone108
+    400144: Bone109
+    400146: Bone110
+    400148: Bone111
+    400150: Bone112
+    400152: Bone112(mirrored)
+    400154: Bone113
+    400156: Bone113(mirrored)
+    400158: Bone114
+    400160: Bone114(mirrored)
+    400162: Bone115
+    400164: Bone115(mirrored)
+    400166: Bone116
+    400168: Bone116(mirrored)
+    400170: Bone117
+    400172: Bone117(mirrored)
+    400174: Bone118
+    400176: Bone118(mirrored)
+    400178: Bone119
+    400180: Bone119(mirrored)
+    400182: Bone120
+    400184: Bone120(mirrored)
+    400186: Bone121
+    400188: Bone121(mirrored)
+    400190: Bone121(mirrored)001
+    400192: Bone122
+    400194: Bone123
+    400196: Bone123(mirrored)
+    400198: Bone124
+    400200: Bone125
+    400202: Bone125(mirrored)
+    400204: Bone126
+    400206: Bone126(mirrored)
+    400208: Bone127
+    400210: Bone127(mirrored)
+    400212: Bone128
+    400214: Bone129
+    400216: Bone130
+    400218: Bone131
+    400220: Bone132
+    400222: Bone133
+    400224: Bone135
+    400226: Bone136
+    400228: Bone137
+    400230: Bone138
+    400232: Bone139
+    400234: Bone140
+    400236: Bone141
+    400238: Bone142
+    400240: challenger_hair_renderer
+    400242: challenger_hair_renderer (1)
+    400244: Changxiu_Buliao_0000
+    400246: dadasfasd123
+    400248: dadasfasd123 (1)
+    400250: Hair003
+    400252: Hair004
+    400254: JieMao001
+    400256: JinshuLian
+    400258: L_Xiong
+    400260: L_yan
+    400262: L_yanmei_01
+    400264: L_yanmei_02
+    400266: L_yanmei_03
+    400268: L_yanpi_01
+    400270: L_yanpi_02
+    400272: meimei_nvjisinew
+    400274: //RootNode
+    400276: QunZi01_Buliao
+    400278: QunZi02_Buliao
+    400280: R_Xiong
+    400282: R_yan
+    400284: R_yanmei_01
+    400286: R_yanmei_02
+    400288: R_yanmei_03
+    400290: R_yanpi_01
+    400292: R_yanpi_02
+    400294: TouJin_1245ab
+    400296: TouJin_1245ab (1)
+    400298: TouJin_1245ab (2)
+    400300: TouJin_BuLiao
+    400302: Toushi01
+    400304: xiaba
+    400306: XiaoBi001
+    400308: XiongHua01_Guge
+    400310: XiongHua02_Guge
+    400312: YaChi
+    400314: YanQiu_L
+    400316: YanQiu_R
+    400318: youtuipengzhuang1
+    400320: youtuipengzhuang2
+    400322: Zui_01
+    400324: Zui_02
+    400326: Zui_03
+    400328: Zui_04
+    2100000: Default-Material
+    2100002: Body_PF 3_lcc
+    2100004: NJS01_lcc
+    2100006: NJS02_lcc
+    2100008: hair_02
+    2100010: Pri_jiemao 1
+    2100012: Huaban
+    2100014: NJS_Shoubi_lcc
+    2100016: Teeth
+    2100018: Pr_Eyes_lcc
+    2100020: Yanqiu00
+    2300000: dadasfasd123
+    2300002: dadasfasd123 (1)
+    2300004: TouJin_1245ab
+    2300006: TouJin_1245ab (1)
+    2300008: TouJin_1245ab (2)
+    3300000: dadasfasd123
+    3300002: dadasfasd123 (1)
+    3300004: TouJin_1245ab
+    3300006: TouJin_1245ab (1)
+    3300008: TouJin_1245ab (2)
+    4300000: dadasfasd123 (1)
+    4300002: TouJin_1245ab
+    4300004: TouJin_1245ab (1)
+    4300006: TouJin_1245ab (2)
+    4300008: dadasfasd123
+    4300010: Body01_0000
+    4300012: Body02xin
+    4300014: Changxiu_Buliao_0000
+    4300016: Hair003
+    4300018: Hair004
+    4300020: JieMao001
+    4300022: JinshuLian
+    4300024: QunZi01_Buliao
+    4300026: QunZi02_Buliao
+    4300028: TouJin_BuLiao
+    4300030: Toushi01
+    4300032: XiaoBi001
+    4300034: XiongHua01_Guge
+    4300036: XiongHua02_Guge
+    4300038: YaChi
+    4300040: YanQiu_L
+    4300042: YanQiu_R
+    9500000: //RootNode
+    13700000: Body01_0000
+    13700002: Body02xin
+    13700004: Changxiu_Buliao_0000
+    13700006: Hair003
+    13700008: Hair004
+    13700010: JieMao001
+    13700012: JinshuLian
+    13700014: QunZi01_Buliao
+    13700016: QunZi02_Buliao
+    13700018: TouJin_BuLiao
+    13700020: Toushi01
+    13700022: XiaoBi001
+    13700024: XiongHua01_Guge
+    13700026: XiongHua02_Guge
+    13700028: YaChi
+    13700030: YanQiu_L
+    13700032: YanQiu_R
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Body_PF 3_lcc
+    second: {fileID: 2100000, guid: c8f9a37fc60a57240ab0717a39b83f9e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Default-Material
+    second: {fileID: 2100000, guid: 21ff69d5c3728104b986fd797ec1705f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Huaban
+    second: {fileID: 2100000, guid: a37da6f6c50a00a4eb181f7550592c71, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: NJS01_lcc
+    second: {fileID: 2100000, guid: 4bda13621e2698b409ed3354b4b5f23b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: NJS02_lcc
+    second: {fileID: 2100000, guid: 3def0e77613ca6046a852f0ff4a178e9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: NJS_Shoubi_lcc
+    second: {fileID: 2100000, guid: 41835ee3d94b1384f869e3970e52afa7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pr_Eyes_lcc
+    second: {fileID: 2100000, guid: 8f1e594794ae3cd4ab56d38b04b02b7c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pri_jiemao 1
+    second: {fileID: 2100000, guid: 94584a28671cd094992703f5ebe98425, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Teeth
+    second: {fileID: 2100000, guid: 38e5f94af7a3daa4184bdb61e888cb1a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Yanqiu00
+    second: {fileID: 2100000, guid: 06b7ddb9931e98347b94a3930415f5cb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: hair_02
+    second: {fileID: 2100000, guid: 5d1bb2fa97d51f145800126e21ca19a8, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 100
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

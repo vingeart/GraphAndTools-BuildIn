@@ -1,0 +1,322 @@
+fileFormatVersion: 2
+guid: 8fe842663ef75a54d9e4dd47071d65c3
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Bip001 Head
+    100002: Bip001 L Calf
+    100004: Bip001 L Clavicle
+    100006: Bip001 L Finger0
+    100008: Bip001 L Finger01
+    100010: Bip001 L Finger02
+    100012: Bip001 L Finger1
+    100014: Bip001 L Finger11
+    100016: Bip001 L Finger12
+    100018: Bip001 L Finger2
+    100020: Bip001 L Finger21
+    100022: Bip001 L Finger22
+    100024: Bip001 L Finger3
+    100026: Bip001 L Finger31
+    100028: Bip001 L Finger32
+    100030: Bip001 L Finger4
+    100032: Bip001 L Finger41
+    100034: Bip001 L Finger42
+    100036: Bip001 L Foot
+    100038: Bip001 L Forearm
+    100040: Bip001 L Hand
+    100042: Bip001 L Thigh
+    100044: Bip001 L Toe0
+    100046: Bip001 L UpperArm
+    100048: Bip001 Neck
+    100050: Bip001 Pelvis
+    100052: Bip001 R Calf
+    100054: Bip001 R Clavicle
+    100056: Bip001 R Finger0
+    100058: Bip001 R Finger01
+    100060: Bip001 R Finger02
+    100062: Bip001 R Finger1
+    100064: Bip001 R Finger11
+    100066: Bip001 R Finger12
+    100068: Bip001 R Finger2
+    100070: Bip001 R Finger21
+    100072: Bip001 R Finger22
+    100074: Bip001 R Finger3
+    100076: Bip001 R Finger31
+    100078: Bip001 R Finger32
+    100080: Bip001 R Finger4
+    100082: Bip001 R Finger41
+    100084: Bip001 R Finger42
+    100086: Bip001 R Foot
+    100088: Bip001 R Forearm
+    100090: Bip001 R Hand
+    100092: Bip001 R Thigh
+    100094: Bip001 R Toe0
+    100096: Bip001 R UpperArm
+    100098: Bip001 Spine
+    100100: Bip001 Spine1
+    100102: Bone032
+    100104: Bone032(mirrored)
+    100106: Bone033
+    100108: Bone088
+    100110: Bone088(mirrored)
+    100112: Bone089
+    100114: Bone089(mirrored)
+    100116: Bone094
+    100118: Bone096
+    100120: Bone100
+    100122: Bone102
+    100124: Bone104
+    100126: Bone105
+    100128: Bone106
+    100130: Bone107
+    100132: Bone109
+    100134: Bone110
+    100136: Bone111
+    100138: Bone112
+    100140: Bone114
+    100142: Bone115
+    100144: Bone116
+    100146: Bone118
+    100148: Bone119
+    100150: Bone120
+    100152: Bone122
+    100154: Bone122(mirrored)
+    100156: Bone123
+    100158: Bone124
+    100160: Bone125
+    100162: Bone126
+    100164: Bone127
+    100166: Bone129
+    100168: Bone130
+    100170: Bone131
+    100172: Bone132
+    100174: Bone133
+    100176: Bone135
+    100178: Bone136
+    100180: Bone137
+    100182: Bone138
+    100184: Bone139
+    100186: Bone141
+    100188: Bone142
+    100190: Bone143
+    100192: Bone144
+    100194: Bone145
+    100196: mc_sakura_lv3_body
+    100198: mc_sakura_lv3_eye
+    100200: mc_sakura_lv3_eyelash
+    100202: mc_sakura_lv3_hair
+    100204: mc_sakura_lv3_head
+    100206: mc_sakura_lv3_other
+    100208: mc_sakura_lv3_other2
+    100210: mc_sakura_mm_lv3
+    100212: Root_m
+    100214: //RootNode
+    400000: Bip001 Head
+    400002: Bip001 L Calf
+    400004: Bip001 L Clavicle
+    400006: Bip001 L Finger0
+    400008: Bip001 L Finger01
+    400010: Bip001 L Finger02
+    400012: Bip001 L Finger1
+    400014: Bip001 L Finger11
+    400016: Bip001 L Finger12
+    400018: Bip001 L Finger2
+    400020: Bip001 L Finger21
+    400022: Bip001 L Finger22
+    400024: Bip001 L Finger3
+    400026: Bip001 L Finger31
+    400028: Bip001 L Finger32
+    400030: Bip001 L Finger4
+    400032: Bip001 L Finger41
+    400034: Bip001 L Finger42
+    400036: Bip001 L Foot
+    400038: Bip001 L Forearm
+    400040: Bip001 L Hand
+    400042: Bip001 L Thigh
+    400044: Bip001 L Toe0
+    400046: Bip001 L UpperArm
+    400048: Bip001 Neck
+    400050: Bip001 Pelvis
+    400052: Bip001 R Calf
+    400054: Bip001 R Clavicle
+    400056: Bip001 R Finger0
+    400058: Bip001 R Finger01
+    400060: Bip001 R Finger02
+    400062: Bip001 R Finger1
+    400064: Bip001 R Finger11
+    400066: Bip001 R Finger12
+    400068: Bip001 R Finger2
+    400070: Bip001 R Finger21
+    400072: Bip001 R Finger22
+    400074: Bip001 R Finger3
+    400076: Bip001 R Finger31
+    400078: Bip001 R Finger32
+    400080: Bip001 R Finger4
+    400082: Bip001 R Finger41
+    400084: Bip001 R Finger42
+    400086: Bip001 R Foot
+    400088: Bip001 R Forearm
+    400090: Bip001 R Hand
+    400092: Bip001 R Thigh
+    400094: Bip001 R Toe0
+    400096: Bip001 R UpperArm
+    400098: Bip001 Spine
+    400100: Bip001 Spine1
+    400102: Bone032
+    400104: Bone032(mirrored)
+    400106: Bone033
+    400108: Bone088
+    400110: Bone088(mirrored)
+    400112: Bone089
+    400114: Bone089(mirrored)
+    400116: Bone094
+    400118: Bone096
+    400120: Bone100
+    400122: Bone102
+    400124: Bone104
+    400126: Bone105
+    400128: Bone106
+    400130: Bone107
+    400132: Bone109
+    400134: Bone110
+    400136: Bone111
+    400138: Bone112
+    400140: Bone114
+    400142: Bone115
+    400144: Bone116
+    400146: Bone118
+    400148: Bone119
+    400150: Bone120
+    400152: Bone122
+    400154: Bone122(mirrored)
+    400156: Bone123
+    400158: Bone124
+    400160: Bone125
+    400162: Bone126
+    400164: Bone127
+    400166: Bone129
+    400168: Bone130
+    400170: Bone131
+    400172: Bone132
+    400174: Bone133
+    400176: Bone135
+    400178: Bone136
+    400180: Bone137
+    400182: Bone138
+    400184: Bone139
+    400186: Bone141
+    400188: Bone142
+    400190: Bone143
+    400192: Bone144
+    400194: Bone145
+    400196: mc_sakura_lv3_body
+    400198: mc_sakura_lv3_eye
+    400200: mc_sakura_lv3_eyelash
+    400202: mc_sakura_lv3_hair
+    400204: mc_sakura_lv3_head
+    400206: mc_sakura_lv3_other
+    400208: mc_sakura_lv3_other2
+    400210: mc_sakura_mm_lv3
+    400212: Root_m
+    400214: //RootNode
+    2100000: mc_sakura_lv2_eyeash_combine.001
+    2100002: mc_sakura_lv2_eye_combine.001
+    2100004: mc_sakura_lv3_head_combine
+    2100006: mc_sakura_lv3_other
+    2100008: mc_sakura_body_combine.001
+    2100010: mc_sakura_lv2_hair_combine.001
+    4300000: mc_sakura_lv3_eyelash
+    4300002: mc_sakura_lv3_eye
+    4300004: mc_sakura_lv3_head
+    4300006: mc_sakura_lv3_other2
+    4300008: mc_sakura_lv3_body
+    4300010: mc_sakura_lv3_hair
+    4300012: mc_sakura_lv3_other
+    9500000: //RootNode
+    13700000: mc_sakura_lv3_body
+    13700002: mc_sakura_lv3_eye
+    13700004: mc_sakura_lv3_eyelash
+    13700006: mc_sakura_lv3_hair
+    13700008: mc_sakura_lv3_head
+    13700010: mc_sakura_lv3_other
+    13700012: mc_sakura_lv3_other2
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
